@@ -1,0 +1,1 @@
+Symbol: $\sigma_b$
