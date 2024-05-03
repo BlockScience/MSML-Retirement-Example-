@@ -1,0 +1,5 @@
+The 60/40 portfolio is a common investment strategy that involves allocating 60% of a portfolio's assets to stocks (equities) and 40% to bonds (fixed income). This allocation is typically considered a balanced approach, aiming to achieve a mix of growth potential through stock investments and stability through bond investments.
+
+The rationale behind this allocation is to potentially benefit from the growth opportunities provided by stocks while also having a buffer of less volatile assets (bonds) to mitigate risk during market downturns. The idea is that when stocks perform well, they can generate higher returns, while bonds can provide stability and income, particularly during periods of stock market volatility.
+
+The exact allocation percentages can vary based on an individual's risk tolerance, investment goals, and market conditions, but the 60/40 allocation is often used as a starting point for constructing diversified investment portfolios.
